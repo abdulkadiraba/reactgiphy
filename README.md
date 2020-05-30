@@ -1,3 +1,3 @@
 # reactgiphy 
 
-## ![Demo](giphyReact.gif) 
+## ![Demo](giphyreactportfolio.gif)  
